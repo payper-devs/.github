@@ -30,31 +30,35 @@
 
 <img width="1920" height="1080" alt="Feature - 소비 분석" src="https://github.com/user-attachments/assets/cd054040-5885-4402-92c3-454aafc1eaf9" />
 
-<img width="1920" height="1080" alt="Tech Stack   Architecture" src="https://github.com/user-attachments/assets/c9becb52-2bcc-4c3d-92d4-3cf3c5987445" />
+<img width="1920" height="1080" alt="Tech Stack   Architecture" src="https://github.com/user-attachments/assets/b2e6f3be-a79f-4834-b127-450d48cc1c05" />
 
 <img width="1920" height="1080" alt="Key Domain" src="https://github.com/user-attachments/assets/b7a9b9d8-9dc4-47b8-b1df-6138771c72e6" />
 
-<img width="1920" height="1080" alt="Troubleshooting1" src="https://github.com/user-attachments/assets/f9e0f9bd-7d4d-46d5-bbd7-75168011d510" />
+<img width="1920" height="1080" alt="Troubleshooting 1 (1)" src="https://github.com/user-attachments/assets/ecc306b6-db7d-4b76-83a6-36345a6aee06" />
 
-<img width="1920" height="1080" alt="Troubleshooting1 (2)" src="https://github.com/user-attachments/assets/827a5455-6b7a-49ed-95a2-c9feb354eb3c" />
+<img width="1920" height="1080" alt="Troubleshooting 1 (2)" src="https://github.com/user-attachments/assets/8d7819b4-d3d2-4043-9671-a7cf9124c742" />
 
-<img width="1920" height="1080" alt="Troubleshooting2" src="https://github.com/user-attachments/assets/f7e21790-77ad-48f1-b201-cbd3554dd416" />
+<img width="1920" height="1080" alt="Troubleshooting 2 (1)" src="https://github.com/user-attachments/assets/87eb955e-a2cd-4959-8b52-ef598604c0ea" />
 
-<img width="1920" height="1080" alt="Troubleshooting2 (2)" src="https://github.com/user-attachments/assets/087e051b-ddb4-4ab6-82ef-c252fc0689c7" />
+<img width="1920" height="1080" alt="Troubleshooting 2 (2)" src="https://github.com/user-attachments/assets/d1ea6b0f-e1fa-482d-bd16-4ee0b57da48a" />
 
-<img width="1920" height="1080" alt="Troubleshooting3" src="https://github.com/user-attachments/assets/f1f6315f-196b-426d-9b7c-5f12949d239f" />
+<img width="1920" height="1080" alt="Troubleshooting 3" src="https://github.com/user-attachments/assets/294c386e-0f90-45a9-90c1-a2f7c1d2941f" />
 
-<img width="1920" height="1080" alt="Troubleshooting4" src="https://github.com/user-attachments/assets/c013c49e-03f1-4293-8dad-c884e7f74f69" />
+<img width="1920" height="1080" alt="Troubleshooting 4 (1)" src="https://github.com/user-attachments/assets/def6a12c-ca06-498b-9da7-e8ddfc40b8f1" />
 
-<img width="1920" height="1080" alt="Troubleshooting5" src="https://github.com/user-attachments/assets/bf152f9c-22f2-4a23-a525-9b42c1da17db" />
+<img width="1920" height="1080" alt="Troubleshooting 4 (2)" src="https://github.com/user-attachments/assets/7ecd6065-7e7c-4269-89a4-c9a6f7f936e9" />
 
-<img width="1920" height="1080" alt="Troubleshooting5 (2)" src="https://github.com/user-attachments/assets/c231ff0d-2756-448a-a8f3-52904d291239" />
+<img width="1920" height="1080" alt="Troubleshooting 4 (3)" src="https://github.com/user-attachments/assets/9b05cd4a-f3ba-4f32-8eb0-a288d4bdefc5" />
 
-<img width="1920" height="1080" alt="Troubleshooting5 (3)" src="https://github.com/user-attachments/assets/d3bc3fb2-9d4c-4879-80d1-b446409b53d8" />
+<img width="1920" height="1080" alt="Troubleshooting 5 (1)" src="https://github.com/user-attachments/assets/0fbccb8d-0241-490d-874f-f402ad660ee9" />
+
+<img width="1920" height="1080" alt="Troubleshooting 5 (2)" src="https://github.com/user-attachments/assets/0b18618d-f8e4-4dcf-9d24-581790fce4c4" />
+
+<img width="1920" height="1080" alt="Troubleshooting 5 (3)" src="https://github.com/user-attachments/assets/49994eb3-ccdb-4bf2-a8bf-cec0a8881c3b" />
 
 <img width="1920" height="1080" alt="Key Results & Limitations" src="https://github.com/user-attachments/assets/f848ec51-b8c5-43cc-8c1f-302dd01c79fc" />
 
-<img width="1920" height="1080" alt="Roadmap" src="https://github.com/user-attachments/assets/1544d0fb-ffe2-45e1-b94c-2da27c042710" />
+<img width="1920" height="1080" alt="Roadmap" src="https://github.com/user-attachments/assets/a0038bed-e65f-47e2-83bd-ba395570c93c" />
 
 <img width="1920" height="1080" alt="Collaboration" src="https://github.com/user-attachments/assets/9d0938df-0be0-4536-919c-1bfc45c8e4dc" />
 
