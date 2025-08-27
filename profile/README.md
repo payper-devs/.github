@@ -1,4 +1,4 @@
-# payper - 지금 내가 받을 수 있는 혜택 💳
+# payper - 더 이상 내 혜택을 놓치지 않는 방법 💳
 
 <img width="1920" height="1080" alt="Title" src="https://github.com/user-attachments/assets/3cfff8b7-3929-4e86-aec8-a74b0024c601" />
 
